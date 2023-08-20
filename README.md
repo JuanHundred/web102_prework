@@ -42,7 +42,7 @@ GIF created with LiceCap
 
 Challenges: 
 
-Centering the texts in the introduction and the Our Games section was a bit challenging. The solution required for all the sections, minus the header section, to utilize flex box. 
+Centering the texts in the introduction and the Our Games section was a bit challenging. The solution required for all the sections, minus the header section, to utilize flexbox. 
 
 
 ## License
