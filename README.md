@@ -4,7 +4,7 @@ Submitted by: **Juan Quezada**
 
 **Sea Monster Crowdfunding Site** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **3.5** hours spent in total
+Time spent: **4.5** hours spent in total
 
 ## Required Features
 
@@ -17,13 +17,13 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] The nav bar at the top of the page allows the user get to the Our Game section quickly by clicking Games
-* [x] The nav bar at the top of the page allows the user get to the stats section quickly by clicking Stats
-* [x] CSS Update: Changed introduction section and the Stats section background to white
+* [x] The nav bar at the top of the page allows the user to get to the Our Game section quickly by clicking Games
+* [x] The nav bar at the top of the page allows the user to get to the stats section quickly by clicking Stats
+* [x] CSS Update: Changed the introduction section and the Stats section background to white
 * [x] CSS Update: Centered the text in the introduction section
 * [x] CSS Update: Centered the text in the Our Games section
-* [x] CSS Update: The three buttons in the Our Games section background color changes to light blue when user hovers over the buttons
-* [x] CSS Update: Cursor changes to pointer when user hovers over the three buttons in the Our Games section
+* [x] CSS Update: The three buttons in the Our Games section background color changes to light blue when a user hovers over the buttons
+* [x] CSS Update: Cursor changes to pointer when a user hovers over the three buttons in the Our Games section
 
 ## Video Walkthrough
 
@@ -32,7 +32,7 @@ Here's a walkthrough of implemented features:
 <img src='https://github.com/JuanHundred/web102_prework/blob/main/Codepath.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with LiceCap
+GIF created with [LiceCap]
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,7 +42,7 @@ GIF created with LiceCap
 
 Challenges: 
 
-Centering the texts in the introduction and the Our Games section was a bit challenging. The solution required for all the sections, minus the header section, to utilize flexbox. 
+Centering the texts in the introduction and the Our Games section was a bit challenging. The solution required for all the sections, minus the header section, to utilize Flexbox. 
 
 
 ## License
